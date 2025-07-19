@@ -16,14 +16,19 @@ future developers better understand the changes.
 Document any special requirements to deploy this change,
 e.g. setting a configuration variable, ....
 
+# Validation instructions
+
+Describe how to test the changes made in this PR.
+
 # References
 
 ## JIRA
-* *Link to ticket*
+* _Link to ticket_
 
 ## PRs
-* *Link to related PR?*
+* _Link to related PR?_
 
 ## Other
-* *Link to Google doc?*
-* *Link to Slack thread?*
+* _Link to 3rd party documentation?_
+* _Link to Google doc?_
+* _Link to Slack thread?_
